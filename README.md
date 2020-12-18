@@ -91,7 +91,7 @@
 
 ### CAT 接入公司
 
-![Alt text](cat-home/src/main/webapp/images/logo/companys.png)
+![Alt text](https://github.com/dianping/cat/raw/master/cat-home/src/main/webapp/images/logo/companys.png)
 
 更多接入公司，欢迎在 <https://github.com/dianping/cat/issues/753> 登记
 
